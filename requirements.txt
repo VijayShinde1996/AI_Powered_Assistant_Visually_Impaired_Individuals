@@ -1,0 +1,10 @@
+streamlit
+pillow
+pytesseract
+gtts
+transformers
+google-cloud-vision
+langchain
+langchain-google-genai
+langchain-core
+speech_recognition
