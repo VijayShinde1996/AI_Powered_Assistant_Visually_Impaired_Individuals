@@ -17,7 +17,7 @@ from streamlit_webrtc import VideoTransformerBase, webrtc_streamer
 import speech_recognition as sr
 
 # Initialize API and models
-GOOGLE_API_KEY = "AIzaSyAgxzRq1399TV8eUIBYT4lLvFnNWBXC9xE"
+GOOGLE_API_KEY = "XX"
 os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
 
 llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", google_api_key=GOOGLE_API_KEY)
