@@ -5,6 +5,5 @@ gtts
 transformers
 google-cloud-vision
 langchain
-langchain-google-genai
 speech_recognition
 PyAudio
